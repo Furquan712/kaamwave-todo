@@ -9,12 +9,12 @@ const Footer = () => {
           Made by{" "}
           <Link
             className="underline decoration-emerald-500 decoration-dotted underline-offset-2 dark:decoration-emerald-400"
-            href=""
+            href= ""
             target="_blank"
             rel="noopener noreferrer"
           >
             {" "}
-           Syed Md Furquan
+             Syed Md Furquan
           </Link>{" "}
           · All rights reserved.
         </div>

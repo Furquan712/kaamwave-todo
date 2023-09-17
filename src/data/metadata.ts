@@ -22,7 +22,7 @@ export const SiteMetadata = {
   ],
   authors: [
     {
-      name: "Ikram Maulana",
+      name: "Syed Md Furquan",
       url: "https://syedfurquan.tech",
     },
   ],
