@@ -14,7 +14,7 @@ const Footer = () => {
             rel="noopener noreferrer"
           >
             {" "}
-            Ikram Maulana
+           Syed Md Furquan
           </Link>{" "}
           · All rights reserved.
         </div>

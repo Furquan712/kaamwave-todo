@@ -23,9 +23,9 @@ export const SiteMetadata = {
   authors: [
     {
       name: "Ikram Maulana",
-      url: "https://ikram-maulana.tech",
+      url: "https://syedfurquan.tech",
     },
   ],
-  creator: "Ikram Maulana",
+  creator: "Syed Md Furquan",
   themeColor: "#FFFFFF",
 };
